@@ -1,0 +1,14 @@
+h1{
+    color: brown;
+    font-size: 50px;
+   font-family:sans-serif ;
+}
+img{
+    width: 400px;
+    height: 400px;
+    border-radius: 80px;
+   
+}
+p{
+    font-family: sans-serif;
+}
